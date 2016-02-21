@@ -22,3 +22,6 @@ Deprecate GOTO statements
 Implement gcc compatibility with the aim of appearing to go from tinybasic to native executable
 
 Simple GUI
+
+# Contact
+milesbench@protonmail.ch
